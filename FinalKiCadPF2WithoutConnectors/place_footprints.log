@@ -1,0 +1,40 @@
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 647:Plugin executed on: 'win32'
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 648:Plugin executed with python version: '3.11.5 (main, Apr  9 2024, 02:53:56) [MSC v.1936 64 bit (AMD64)]'
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 649:KiCad build version: 8.0.2
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 650:Plugin version: 3.0.0
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 651:Frame repr: <wx._core.Frame object at 0x000001AC83B8DA20>
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 121:getting a list of all footprints on board
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J4 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint MOSFET1 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint RV1 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J3 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J2 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R10 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint J1 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R8 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint MOSFET2 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D6 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Q1 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R1 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R4 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R7 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R2 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R5 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint D5 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint Q2 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R9 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R3 on root level
+05-31 17:35:00 com_github_MitjaNemec_PlaceFootprints.place_footprints 156:Footprint R6 on root level
+05-31 17:35:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 830:Reference designator is: D
+05-31 17:35:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 831:Reference number is: 5
+05-31 17:35:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 863:Sorted and filtered list:
+['D5', 'D6']
+05-31 17:35:01 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 359:wx.Colour(240, 240, 240, 255)
+05-31 17:35:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 490:'78.962'
+05-31 17:35:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 549:Preparing config for reference matrix
+05-31 17:35:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 556:Saving config file
+05-31 17:35:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 558:Saved the config file
+05-31 17:35:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 901:Footprints to place:
+['D5', 'D6']
+05-31 17:35:03 com_github_MitjaNemec_PlaceFootprints.place_footprints 398:Starting placing with matrix layout
+05-31 17:35:03 com_github_MitjaNemec_PlaceFootprints.action_place_footprints 971:Placing complete
