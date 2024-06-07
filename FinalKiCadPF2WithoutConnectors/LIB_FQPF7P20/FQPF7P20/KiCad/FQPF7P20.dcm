@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP FQPF7P20
+D P-Channel MOSFET, 5.2 A, 200 V, 3-Pin TO-220F ON Semiconductor FQPF7P20
+K
+F https://www.onsemi.com/pub/Collateral/FQPF7P20-D.pdf
+$ENDCMP
+#
+#End Doc Library

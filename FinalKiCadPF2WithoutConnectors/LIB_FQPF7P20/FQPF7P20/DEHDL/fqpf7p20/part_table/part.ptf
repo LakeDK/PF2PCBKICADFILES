@@ -1,0 +1,11 @@
+FILE_TYPE = MULTI_PHYS_TABLE;
+
+PART 'FQPF7P20'
+CLASS = DISCRETE
+{========================================================================================}
+:"MANUFACTURER_NAME", "MANUFACTURER_PART_NUMBER"= "PART_NUMBER", "JEDEC_TYPE", "PACK_TYPE", "MOUSER_PART_NUMBER", "MOUSER_PRICE/STOCK", "DESCRIPTION", "DATASHEET", "HEIGHT";
+{========================================================================================}
+ "onsemi", "FQPF7P20" (!) = "", "TO254P274X1016X1970-3P", "Transistor Outline, Vertical", "", "", "P-Channel MOSFET, 5.2 A, 200 V, 3-Pin TO-220F ON Semiconductor FQPF7P20", "https://www.onsemi.com/pub/Collateral/FQPF7P20-D.pdf", "2.74 mm"
+END_PART
+
+END.
